@@ -11,13 +11,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on ** a Project**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Oracle, Ai and Muay Thai**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/MA-Abahmane/MA-Abahmane/issues)**
+💬 Ask me about **Algorithmics, Data Structures, OOP... or anything [here](https://github.com/MA-Abahmane/MA-Abahmane/issues)**
 
-⚡ Fun fact **Spiders are the only web developers that are happy to find bugs**
+⚡ Fun fact **Spiders are the only web developers who are happy to find bugs**
 
  </div>
  
@@ -25,7 +25,7 @@
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-amine-abahmane-986999251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://MA-Abahmane.github.io" target="_blank">
